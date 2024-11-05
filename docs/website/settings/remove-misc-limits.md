@@ -12,5 +12,6 @@ Disables various limits that aren't significant enough to get a dedicated toggle
  - Minimum pen size is reduced from 1 to 0 and maximum pen is increased from 1200 to infinite
  - Mouse X and Y coordinates will not be rounded, which can be useful in fullscreen
  - Removes 30 concurrent drum/note limit from the music extension
+ - Removes Cloud Variable Limit
 
 This list will be expanded over time.
